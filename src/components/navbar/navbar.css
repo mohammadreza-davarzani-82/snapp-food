@@ -1,0 +1,4 @@
+.width{
+    max-width: calc(24vw - 85px);
+    font-size: 0.625rem;
+}
